@@ -17,7 +17,7 @@
 Hi, I'm ASunYC, a developer exploring AI engineering tools, agent-native workflows, and small open-source systems that make everyday development smoother.
 
 <a href="https://asunyc.github.io/" target="_blank">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ASunYC&show_icons=true&theme=transparent&hide_border=true" width="390" alt="ASunYC GitHub stats" />
+  <img align="right" src="https://raw.githubusercontent.com/ASunYC/ASunYC.github.io/master/docs/public/logo-hero.jpg" width="220" alt="ASunYC project hub" />
 </a>
 
 ## Current Direction
@@ -57,7 +57,9 @@ Hi, I'm ASunYC, a developer exploring AI engineering tools, agent-native workflo
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASunYC&layout=compact&theme=transparent&hide_border=true" width="390" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Tooling-111111?style=flat-square" alt="AI Tooling" />
+  <img src="https://img.shields.io/badge/Workflow-Agent%20Native-111111?style=flat-square" alt="Agent Native" />
+  <img src="https://img.shields.io/badge/Runtime-Node%2022%2B-111111?style=flat-square" alt="Node 22+" />
 </p>
 
 <!-- badge_plugin_start -->
