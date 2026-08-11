@@ -20,12 +20,6 @@ Hi, I'm ASunYC, a developer exploring AI engineering tools, agent-native workflo
   <img align="right" src="https://raw.githubusercontent.com/ASunYC/ASunYC.github.io/master/docs/public/logo-hero.jpg" width="220" alt="ASunYC project hub" />
 </a>
 
-## Fun Tool
-
-<a href="https://codex-resets.com/" target="_blank">
-  <img src="https://codex-resets.com/og-image.png?v=2" alt="Codex Resets tracker card" width="720" />
-</a>
-
 ## Current Direction
 
 - Building practical AI tooling around skills, prompts, automation, and developer workflows.
@@ -67,6 +61,12 @@ Hi, I'm ASunYC, a developer exploring AI engineering tools, agent-native workflo
   <img src="https://img.shields.io/badge/Workflow-Agent%20Native-111111?style=flat-square" alt="Agent Native" />
   <img src="https://img.shields.io/badge/Runtime-Node%2022%2B-111111?style=flat-square" alt="Node 22+" />
 </p>
+
+## Fun Tool
+
+<a href="https://codex-resets.com/" target="_blank">
+  <img src="https://codex-resets.com/og-image.png?v=2" alt="Codex Resets tracker card" width="720" />
+</a>
 
 <!-- badge_plugin_start -->
 
