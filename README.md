@@ -20,6 +20,12 @@ Hi, I'm ASunYC, a developer exploring AI engineering tools, agent-native workflo
   <img align="right" src="https://raw.githubusercontent.com/ASunYC/ASunYC.github.io/master/docs/public/logo-hero.jpg" width="220" alt="ASunYC project hub" />
 </a>
 
+## Fun Tool
+
+<a href="https://codex-resets.com/" target="_blank">
+  <img src="https://codex-resets.com/og-image.png?v=2" alt="Codex Resets tracker card" width="720" />
+</a>
+
 ## Current Direction
 
 - Building practical AI tooling around skills, prompts, automation, and developer workflows.
